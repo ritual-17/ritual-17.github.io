@@ -1,0 +1,11 @@
+.header-container{
+    width: 100vw;
+    
+    box-shadow:rgb(0, 0, 0) 0px 0px 3px 0px;
+}
+
+.nav-container {
+    
+    padding: 10px;
+    width: 100%;
+}

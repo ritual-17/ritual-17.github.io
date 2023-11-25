@@ -1,0 +1,15 @@
+.home-container {
+    margin-top: 30vh;
+}
+
+.name {
+    font-size: 5rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 1rem;
+}
+
+.home-buttons {
+    display: flex;
+    max-width: 300px;
+}
